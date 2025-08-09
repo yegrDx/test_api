@@ -1,37 +1,6 @@
 # Виртуальные окружения
 WORK/
-venv/
-env/
 
-# Кэш Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.python-version
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Данные и модели
-*.pkl
-*.joblib
-*.h5
-*.csv
-*.xlsx
-
-# Логи
 *.log
 
-# Docker
-*.pid
-*.tar
-.dockerignore
 
-# Системные файлы
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/

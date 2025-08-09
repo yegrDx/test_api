@@ -1,0 +1,5 @@
+pydentic
+pandas
+scikit-learn
+uvicorn
+fastapi
